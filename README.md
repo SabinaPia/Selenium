@@ -1,5 +1,6 @@
 # Selenium Web Driver
 ## Test cases
+![test](https://user-images.githubusercontent.com/83424577/142569861-013134e8-9541-42ea-bca5-a699f09a20d6.PNG)
 ### Se hizo 3 casos de prueba, una de ellas es:
 ```
   describe('Percentage Calculator 01', () => {
